@@ -18,7 +18,6 @@
     "isolatedModules": true,
     "noEmit": false,
     "noUncheckedIndexedAccess": false,
-    "suppressImplicitAnyIndexErrors": true,
     "experimentalDecorators": true,
     "outDir": "./dist",
 //    "ignoreDeprecations": "5.0"
